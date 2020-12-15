@@ -1,0 +1,25 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+  color: red;
+}
+h2 {
+color: red;
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+iframe {
+	display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
