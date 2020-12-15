@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+	<link rel="stylesheet" href="nagato.css">
+        <title>boruto</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Boruto</h1>
+        <h2>"Dernier chapitre"</h2>
+		<a href="https://borutoscan.fr/manga/boruto-scan-52-vf/">
+        <img src = "https://1.bp.blogspot.com/-3QS4xxsRm2c/X7kYm9GNoHI/AAAAAAAAAzk/Nl11gGep4qYOKFjx4osXAGnX_sms3wHsQCLcBGAsYHQ/s1600/001.jpg" alt = "texte de remplacement" width="600" >
+		
+        <h2>Dernier épisode </h2>
+        <iframe width="560" height="315" src=""https://animedigitalnetwork.fr/video/boruto-naruto-next-generations/13102-episode-176-fermez-les-portes-a-n"" frameborder="0" width="640px" height="360px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+        <h2>Roi Arouf Arouf gangsta...</h2>
+        <img src = "https://i.ytimg.com/vi/uEVzQr--J70/maxresdefault.jpg" alt = "texte de remplacement" width="1000" >
+<h2> "Amv itachi" </h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/7RUylQDHQMk" frameborder="0" width="640px" height="360px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+	 </body>
+	
+</html>
